@@ -3,7 +3,7 @@ Valentine's Day Card: Spread love with this simple yet elegant HTML/CSS Valentin
 
 ## Preview
 
-![Valentine's Day Card Preview](preview.png)
+![Valentine's Day Card Preview](https://github.com/U4College/Valentine-s-Day-2024/blob/main/Valentine's%20Day%20Card1.png)
 
 ## Features
 
