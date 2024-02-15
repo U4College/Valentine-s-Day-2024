@@ -17,7 +17,7 @@ Valentine's Day Card: Spread love with this simple yet elegant HTML/CSS Valentin
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/valentines-day-card.git
+   git clone https://github.com/U4College/Valentine-s-Day-2024.git
    ```
 
 2. Navigate to the project directory:
